@@ -1,0 +1,304 @@
+{
+  "display_name":"Железнодорожная-Торбеево",
+  "name":"65",
+  "time":"05:30 - 22:50",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [38.00804, 55.75124],
+          [38.008058, 55.750836],
+          [38.007524, 55.750836],
+          [38.006922, 55.750878],
+          [38.005032, 55.751318],
+          [38.004228, 55.751422],
+          [38.000236, 55.7517],
+          [37.986192, 55.7515],
+          [37.982672, 55.75103],
+          [37.971528, 55.75082],
+          [37.970976, 55.75074],
+          [37.969166, 55.750212],
+          [37.9684, 55.750122],
+          [37.961928, 55.750414],
+          [37.95778, 55.750762],
+          [37.954248, 55.75119],
+          [37.951244, 55.75141],
+          [37.94436, 55.751414],
+          [37.942062, 55.751038],
+          [37.93729, 55.750452],
+          [37.936472, 55.750428],
+          [37.928064, 55.751036],
+          [37.92098, 55.75141],
+          [37.921206, 55.754366],
+          [37.921236, 55.75836],
+          [37.922784, 55.764798],
+          [37.926726, 55.770772],
+          [37.927622, 55.772912],
+          [37.927996, 55.773684],
+          [37.929032, 55.77528],
+          [37.929682, 55.776898],
+          [37.930344, 55.777772],
+          [37.930732, 55.778166],
+          [37.931418, 55.77868],
+          [37.931552, 55.778896],
+          [37.931632, 55.781078],
+          [37.93154, 55.792956],
+          [37.93161, 55.793076],
+          [37.931832, 55.793148],
+          [37.934104, 55.793208],
+          [37.934412, 55.79676],
+          [37.926808, 55.79697],
+          [37.92736, 55.804002],
+          [37.9264, 55.804172],
+          [37.923372, 55.802822],
+          [37.921102, 55.801994],
+          [37.9183, 55.801562],
+          [37.9175, 55.80156]
+        ]
+      },
+      "properties": {
+        "description": "Вариант 1 Прямое",
+        "stroke": "#008000",
+        "stroke-width": "8",
+        "stroke-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.00804, 55.75124]
+      },
+      "properties": {
+        "description": "1 ● МЦД Железнодорожная",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.000236, 55.7517]
+      },
+      "properties": {
+        "description": "2 ● Горсовет",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.986192, 55.7515]
+      },
+      "properties": {
+        "description": "3 ● Соцзащита",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.971528, 55.75082]
+      },
+      "properties": {
+        "description": "4 ● Юбилейная улица",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.961928, 55.750414]
+      },
+      "properties": {
+        "description": "5 ● Кафе Сказка",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.954248, 55.75119]
+      },
+      "properties": {
+        "description": "6 ● Улица Калинина",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.94436, 55.751414]
+      },
+      "properties": {
+        "description": "7 ● Молодежная улица",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.936472, 55.750428]
+      },
+      "properties": {
+        "description": "8 ● Микрорайон Саввино",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.928064, 55.751036]
+      },
+      "properties": {
+        "description": "9 ● СЭМЗ",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.921206, 55.754366]
+      },
+      "properties": {
+        "description": "10 ● Пуршево",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.922784, 55.764798]
+      },
+      "properties": {
+        "description": "11 ● Школа-сад",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.926726, 55.770772]
+      },
+      "properties": {
+        "description": "12 ● Спортмастер",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.927622, 55.772912]
+      },
+      "properties": {
+        "description": "13 ● Новомилетский завод",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.929032, 55.77528]
+      },
+      "properties": {
+        "description": "14 ● Русавкино",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.930344, 55.777772]
+      },
+      "properties": {
+        "description": "15 ● Дорожная улица",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.931632, 55.781078]
+      },
+      "properties": {
+        "description": "16 ● Русавкино-Поповщина",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.93154, 55.792956]
+      },
+      "properties": {
+        "description": "17 ● Сельхозхимия",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.9175, 55.80156]
+      },
+      "properties": {
+        "description": "18 ● Торбеево",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    }
+  ]
+}

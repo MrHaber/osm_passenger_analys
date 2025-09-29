@@ -1,0 +1,66 @@
+name: Analytics
+description: "Passenger maps virtual"
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  latlong2: ^0.9.1
+  flutter_map: ^7.0.2
+  flutter_map_location_marker: ^9.1.0
+  location: ^5.0.0
+  http: ^1.5.0
+  geolocator: ^13.0.1
+  flutter_polyline_points: ^3.1.0
+  path_provider: ^2.1.5
+
+  cupertino_icons: ^1.0.8
+  permission_handler: ^12.0.1
+  flutter_map_geojson: ^1.0.8
+  syncfusion_flutter_charts: ^31.1.21
+  shared_preferences: ^2.5.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon.png"
+
+  web:
+    generate: true
+    image_path: "assets/icons/icon.png"
+    background_color: "#ffffff"
+    theme_color: "#2196f3"
+
+  windows:
+    generate: true
+    image_path: "assets/icons/icon.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/icons/icon.png"
+  linux:
+    generate: true
+    image_path: "assets/icons/icon.png"
+flutter:
+  assets:
+    - assets/datas/
+    - assets/datas/buildings/new_buildings_data.json
+    - assets/datas/MCD_data/MCD_load.json
+    - assets/datas/buildings/
+
+  uses-material-design: true
+

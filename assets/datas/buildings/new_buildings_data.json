@@ -1,0 +1,154 @@
+{
+  "railway_district_new_buildings": [
+    {
+      "id": 1,
+      "name": "Жилой дом М-5 корпус 1",
+      "builder": "ООО СЗ СК ПАВШИНО",
+      "company_group": "Садовое кольцо",
+      "living_area": 7720,
+      "commissioning_date": "IV кв. 2024",
+      "coordinates": [38.016, 55.744],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 2,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 10571,
+      "commissioning_date": "IV кв. 2023",
+      "coordinates": [38.025, 55.736],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 3,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 18014,
+      "commissioning_date": "IV кв. 2023",
+      "coordinates": [38.022, 55.738],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 4,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 10571,
+      "commissioning_date": "III кв. 2023",
+      "coordinates": [38.019, 55.735],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 5,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 13613,
+      "commissioning_date": "III кв. 2023",
+      "coordinates": [38.028, 55.741],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 6,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 10486,
+      "commissioning_date": "I кв. 2023",
+      "coordinates": [38.031, 55.733],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 7,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 15666,
+      "commissioning_date": "I кв. 2023",
+      "coordinates": [38.035, 55.739],
+      "isCurrentAvailable": true
+    },
+    {
+      "id": 8,
+      "name": "город Г Балашиха, район Железнодорожный, Улица",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 13732,
+      "commissioning_date": "IV кв. 2025",
+      "coordinates": [38.012, 55.742],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 9,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 13732,
+      "commissioning_date": "II кв. 2026",
+      "coordinates": [38.020, 55.740],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 10,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 13732,
+      "commissioning_date": "I кв. 2026",
+      "coordinates": [38.018, 55.737],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 11,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 26744,
+      "commissioning_date": "I кв. 2025",
+      "coordinates": [38.030, 55.743],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 12,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 26744,
+      "commissioning_date": "IV кв. 2024",
+      "coordinates": [38.032, 55.745],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 13,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 9134,
+      "commissioning_date": "III кв. 2024",
+      "coordinates": [38.015, 55.732],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 14,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 24579,
+      "commissioning_date": "II кв. 2025",
+      "coordinates": [38.026, 55.746],
+      "isCurrentAvailable": false
+    },
+    {
+      "id": 15,
+      "name": "ЖК \"Героев\"",
+      "builder": "ООО ГС-САВВИНО - СПЕЦЗАСТРОЙЩИК",
+      "company_group": "Главстрой-Регионы",
+      "living_area": 8011,
+      "commissioning_date": "III кв. 2025",
+      "coordinates": [38.023, 55.734],
+      "isCurrentAvailable": false
+    }
+  ]
+}
